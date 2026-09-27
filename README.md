@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Harshitha S B 👋
 
-<!--
-**CloudHarshitha/CloudHarshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Cloud Computing | AI & Technology
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Cloud Computing,
+interested in building practical software and AI-powered applications
+while continuously exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE student specializing in Cloud Computing
+- ☁️ Exploring cloud technologies and AWS
+- 🤖 Working with AI, Generative AI, LLMs and RAG
+- 💻 Building practical projects and applications
+- 🧠 Strengthening my programming and problem-solving skills
+- 🌱 Always learning and experimenting with new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python • C • Java • SQL
+
+**AI & Data**
+
+LLMs • RAG • Hugging Face • Pandas • NumPy • Matplotlib
+
+**Cloud & Development**
+
+AWS • Git • GitHub • Docker • Linux
+
+**Tools & Platforms**
+
+Supabase • Jupyter • Google Colab
+
+---
+
+## 🔭 Currently Working On
+
+- 🤖 AI-powered applications
+- 📚 Lzen — collaborative learning platform
+- 🔎 RAG & LLM-based systems
+- ☁️ Cloud-based projects
+- 💻 Improving software development skills
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Lzen
+
+AI-powered collaborative learning platform focused on making
+learning more interactive and collaborative.
+
+### 🤖 RAG-Based QA System
+
+A question-answering system using Retrieval-Augmented Generation
+to retrieve relevant information and generate contextual responses.
+
+### 📊 Data Analysis
+
+Data analysis and visualization projects using Python and Power BI.
+
+---
+
+## 🌱 Currently Learning
+
+- Python & Data Structures
+- Cloud Computing
+- AI & Generative AI
+- RAG & LLM Applications
+- Software Development
+
+---
+
+## 🤝 Reach Out to Me
+
+I'm always open to connecting, collaborating on projects,
+and discussing technology and learning opportunities.
+
+📧 **Email:** your-email
+
+💼 **LinkedIn:** your-linkedin
+
+🐙 **GitHub:** [@CloudHarshitha](https://github.com/CloudHarshitha)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
