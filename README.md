@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student specializing in Cloud Computing, passionate about building practical software and AI-powered applications.
+I'm a Computer Science student specializing in Cloud Computing, passionate about building practical software and AI-powered Cloud applications.
 I enjoy exploring new technologies, solving problems, and turning ideas into working projects.
 
 ---
